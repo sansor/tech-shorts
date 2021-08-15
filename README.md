@@ -1,2 +1,2 @@
-# tech-shorts
-Tech Short : Introduction to future technologies
+# Tech Shorts
+An attempt to quickly onboard and introduce you to new technolgies around you.
